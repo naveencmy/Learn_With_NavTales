@@ -219,6 +219,22 @@ public class CustomLinkedList {
         }
         System.out.println(" -> NULL");
     }
+    //=============================================================
+    // Reverse the LinkedList By using the Null Noode
+    //=============================================================
+    public void reverse(){
+        Node prev=null;
+        Node curr=head;
+        Node nextNode=null;
+        while(curr!=null)
+        {
+            nextNode=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=nextNode;
+        }
+        head=prev;
+    }
 
     // ============================================================
     // MAIN METHOD - DEMONSTRATION
@@ -284,6 +300,11 @@ public class CustomLinkedList {
 
         CustomLinkedList merged = mergeSortedLists(listA, listB);
         System.out.print("Merged List: ");
+        merged.printList();
+
+        System.out.print("----Reverse the Linked List:----\n");
+        System.out.print("Revresed List: ");
+        merged.reverse();
         merged.printList();
 
         System.out.println("\n========================================");

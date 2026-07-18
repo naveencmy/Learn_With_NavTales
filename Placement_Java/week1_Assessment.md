@@ -219,4 +219,21 @@ public class CustomLinkedList {
         }
         System.out.println(" -> NULL");
     }
+
+````
+8. Reverse the linked list by using the Null Node 
+```` java
+  public void reverse(){
+    Node prev=null;
+    Node curr=head;
+    Node nextNode=null;
+    while(curr!=null)
+    {
+        nextNode=curr.next;
+        curr.next=prev;
+        prev=curr;
+        curr=nextNode;
+    }
+    head=prev;
+    }
 ````

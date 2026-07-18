@@ -1,0 +1,14 @@
+String n1 ="Is it cold?",n2 ="Is it heavy?",n3="Is it long?";
+String n1 ="Is it cold?",n2 ="Is it heavy?",n3="Is it long?";
+String n1 ="Is it cold?",n2 ="Is it heavy?",n3="Is it long?";
+String u1="k",u3="kg",U3="s";
+String u1="k",u3="kg",U3="s";
+String u1="k",u3="kg",U3="s";
+double v1=142.7,v2=12.52,v3=36.9;
+double v1=142.7,v2=12.52,v3=36.9;
+double v1=142.7,v2=12.52,v3=36.9;
+String m1=n1+"\t"+v1+" "+u1;
+System.out.println(m1);
+final double absoluteZero=-459.67;
+String m2=n2+"\t"+v2+" "+u3;
+String m3=n3+"t+v3+ "+u3;

@@ -1,0 +1,413 @@
+2026.07.07 05:35:38 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.07.07 05:35:39 WARN  no build tool detected in workspace 'D:\programfile\new works\Learn_With_NavTales'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.07.07 05:35:39 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:35:39 WARN  Build server is not auto-connectable.
+2026.07.07 05:35:39 WARN  no build target for: D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java
+2026.07.07 05:35:42 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:35:42 INFO  time: code lens generation in 2.45s
+2026.07.07 05:35:44 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:35:44 WARN  no build target for: D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java
+Jul. 07, 2026 5:35:44 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.07.07 05:35:44 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:35:46 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:35:46 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:35:46 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:35:47 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:35:59 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:35:59 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:35:59 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:00 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:00 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:00 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:00 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:00 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:01 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:01 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:03 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+Jul. 07, 2026 5:36:03 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+2026.07.07 05:36:03 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:03 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:03 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:03 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:03 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:04 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:04 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:04 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:04 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:04 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:05 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:05 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:05 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:05 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:05 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:05 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:05 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+Jul. 07, 2026 5:36:06 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 58
+2026.07.07 05:36:06 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:06 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:06 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:06 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:07 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:07 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:07 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:07 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:08 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:08 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:08 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:08 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:08 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+Jul. 07, 2026 5:36:09 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 81
+2026.07.07 05:36:08 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:09 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:10 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:10 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:10 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:10 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:09 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:10 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:10 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:11 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:11 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:12 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:12 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:11 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:17 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:17 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:18 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:18 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:17 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:19 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:19 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:20 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:21 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:23 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:23 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:24 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:28 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:28 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:28 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:28 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:29 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:29 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:29 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:30 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:30 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:32 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:32 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:34 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:37 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:37 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:37 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:38 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:38 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:37 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:39 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:39 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:40 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:40 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:41 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:41 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:41 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:41 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:42 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:42 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:42 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:42 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:44 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:44 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:44 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:44 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:46 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:46 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:46 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:49 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:49 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:49 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:49 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:49 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:49 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:50 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:50 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:50 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:51 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:51 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:52 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:52 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:54 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:56 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:56 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:56 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:57 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:57 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:36:56 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:58 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:59 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:36:59 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:01 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:03 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:03 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:08 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:08 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:08 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:10 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:10 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:10 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:10 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:12 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:12 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:37:12 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:14 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:14 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:14 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:15 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:37:15 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:15 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:16 WARN  no build target for: D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java
+2026.07.07 05:37:16 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:17 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:21 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:32 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:32 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:32 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:40 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:40 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:47 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:47 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:54 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:54 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:57 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:57 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:57 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:57 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:37:59 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:59 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:59 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:37:59 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:59 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:37:59 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:00 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:37:59 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:00 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:00 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:00 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:38:00 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:02 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:02 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:03 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:03 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:38:02 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:04 WARN  no build target for: D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java
+2026.07.07 05:38:04 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:05 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:51 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:51 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:52 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:52 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:53 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:53 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:38:55 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:55 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:56 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:38:56 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:55 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:55 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:56 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:56 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:38:56 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:38:58 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:03 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:03 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:04 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:04 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:39:03 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:05 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:05 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:06 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:06 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:39:08 WARN  no build target for: D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java
+2026.07.07 05:39:08 INFO  Created report: Optional[file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java]
+2026.07.07 05:39:08 INFO  QDox parse error in file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java (full report at: "D:\programfile\new works\Learn_With_NavTales\.metals\.reports\metals-full\2026-07-07\r_qdox-error_05-39-08-114.md")
+2026.07.07 05:39:08 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:09 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:10 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:26 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+Jul. 07, 2026 5:39:26 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 333
+2026.07.07 05:39:26 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:26 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:27 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:27 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:27 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:27 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:27 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:39:27 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:27 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:27 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:27 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:27 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:39:28 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:28 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:28 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:29 WARN  no build target for: D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java
+2026.07.07 05:39:29 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:30 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:32 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:32 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:32 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:32 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:39:32 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:32 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:32 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:34 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:34 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:39:34 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:34 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:34 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:35 WARN  no build target for: D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java
+2026.07.07 05:39:35 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:37 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:42 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:42 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:42 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:44 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:44 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:44 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:44 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:45 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:45 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:45 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:45 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:39:45 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:45 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:45 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:45 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:46 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:46 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:39:46 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:48 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:48 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:48 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:48 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:48 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:39:48 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:48 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:48 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:49 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:49 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:49 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:50 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:51 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:51 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:51 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:51 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:39:51 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:51 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:51 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:52 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:39:51 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:52 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:52 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:53 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:53 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.07 05:39:52 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:52 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:54 WARN  no build target for: D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java
+2026.07.07 05:39:54 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:54 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+Jul. 07, 2026 5:39:54 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: begin -1, end 176, length 347
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin -1, end 176, length 347
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.lang.StringIndexOutOfBoundsException: begin -1, end 176, length 347
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4606)
+	at java.base/java.lang.String.substring(String.java:2709)
+	at scala.meta.internal.pc.JavaMetalsGlobal.findIndentifierStartAndEnd(JavaMetalsGlobal.scala:87)
+	at scala.meta.internal.pc.JavaDefinitionProvider.$anonfun$definitionImpl$5(JavaDefinitionProvider.scala:122)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.pc.JavaDefinitionProvider.definitionImpl(JavaDefinitionProvider.scala:70)
+	at scala.meta.internal.pc.JavaDefinitionProvider.definitionOffset(JavaDefinitionProvider.scala:53)
+	at scala.meta.internal.pc.JavaDefinitionProvider.definition(JavaDefinitionProvider.scala:31)
+	at scala.meta.internal.pc.JavaPresentationCompiler.definition(JavaPresentationCompiler.scala:98)
+	at scala.meta.internal.metals.Compilers.$anonfun$definition$1(Compilers.scala:1230)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1543)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1543)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1535)
+	at scala.meta.internal.metals.Compilers.definition(Compilers.scala:1221)
+	at scala.meta.internal.metals.Compilers.definition(Compilers.scala:1182)
+	at scala.meta.internal.metals.DefinitionProvider.fromCompiler$1(DefinitionProvider.scala:97)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$10(DefinitionProvider.scala:146)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$15(DefinitionProvider.scala:153)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	... 3 more
+
+2026.07.07 05:39:55 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:39:59 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 05:40:01 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.07 06:03:33 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.10 15:17:30 INFO  Started: Metals version 1.6.7 in folders 'D:\programfile\new works\Learn_With_NavTales' for client Visual Studio Code 1.127.0.
+2026.07.10 15:17:30 INFO  Memory monitor started
+2026.07.10 15:17:36 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.07.10 15:17:36 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.10 15:17:37 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.10 15:17:37 WARN  no build tool detected in workspace 'D:\programfile\new works\Learn_With_NavTales'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.07.10 15:17:38 WARN  Build server is not auto-connectable.
+2026.07.10 15:17:38 WARN  no build target for: D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java
+2026.07.10 15:17:38 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
+2026.07.10 15:17:40 WARN  Running javac-semanticdb failed for file:///D:/programfile/new%20works/Learn_With_NavTales/Java_Foundation_Oracle/Increment_Decrement.java. Output:
+
+2026.07.10 15:17:40 INFO  time: code lens generation in 2.3s
+2026.07.10 15:20:25 INFO  no build target found for D:\programfile\new works\Learn_With_NavTales\Java_Foundation_Oracle\Increment_Decrement.java. Using fallback presentation compiler.
